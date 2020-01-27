@@ -14,8 +14,10 @@ GPU           : Sapphire Pulse Radeon RX580 8Gb <br>
 Audio Codec   : ALC877 with AppleALC Layout-id "alcid=11" <br>
 Clover Res    : 1920*1080 <br>
 Clover Ver    : 5000 <br>
-MacOS         : Catalina 10.15 <br large>
-
+MacOS         : Catalina 10.15 
+<br>
+<br>
+  
 <b> Whats Work : </b> <br>
 Graphics Card <br>
 Audio In/Out <br>
