@@ -16,7 +16,7 @@ Clover Res    : 1920*1080 <br>
 Clover Ver    : 5000 <br>
 MacOS         : Catalina 10.15 <br>
 
-<h4> Whats Work : </h4> <br>
+<b> Whats Work : </b> <br>
 Graphics Card <br>
 Audio In/Out <br>
 USB 5Gbps <br>
