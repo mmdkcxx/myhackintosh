@@ -1,27 +1,28 @@
 # myhackintosh
-My Hackintosh configuration backup, and documentaries.
+<h2>My 7th Gen Hackintosh Configuration paired with RX580 MacOS Catalina.</h2>
 
 This config is made on January 2020, Currently on Catalina 10.15
 With SMBIOS iMac 18,1
 
-PC Specification ;
+<h3>PC Specification </h3> 
 
-Processors    : intel core i5 7400
-Motherboard   : Asus H110M - D3
-RAM           : 8GB DDR3 1333mhz
-GPU           : Sapphire Pulse Radeon RX580 8Gb
-Audio Codec   : ALC877 with AppleALC Layout-id "alcid=11"
-Clover Res    : 1920*1080
-Clover Ver    : 5000
-MacOS         : Catalina 10.15
+<h4>
+Processors    : intel core i5 7400 <br>
+Motherboard   : Asus H110M - D3 <br>
+RAM           : 8GB DDR3 1333mhz <br>
+GPU           : Sapphire Pulse Radeon RX580 8Gb <br>
+Audio Codec   : ALC877 with AppleALC Layout-id "alcid=11" <br>
+Clover Res    : 1920*1080 <br>
+Clover Ver    : 5000 <br>
+MacOS         : Catalina 10.15 <br>
 
-Whats Work :
-Graphics Card
-Audio In/Out
-USB 5Gbps
-Ethernet "RTL8111"
-HDMI Audio
-etc..
+<h4> Whats Work : </h4> <br>
+Graphics Card <br>
+Audio In/Out <br>
+USB 5Gbps <br>
+Ethernet "RTL8111" <br>
+HDMI Audio<br>
+etc.. 
 
-things that i dont know, because i dont do this :
+things that i dont know, because i dont do this : <br>
 CPU Power Management
